@@ -16,10 +16,20 @@ Systems engineer in formation. 😎
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height="35"/> &nbsp;
   <img alt="React" src="https://img.shields.io/badge/React-444950?style=flat&logo=react&logoColor=149eca"  height="35"/> &nbsp;
   <!--<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=flat&logo=angular&logoColor=white"  height="35"/> &nbsp;-->
+
+- Databases:
+
+  <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white" height="35"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" height="35"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white" height="35"/>
   
 - Others:
 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white" height="35" />&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leider-20&size_weight=0.5&count_weight=0.5)
+
+  
 
 
 <!--
