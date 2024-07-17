@@ -1,8 +1,10 @@
-## String name = "~Leider Felipe Caicedo P~"; 👋
+## String name = "*Leider Felipe Caicedo P*"; 👋
 
 ### About me
 
 Systems engineer in formation. 😎
+
+[![Leider-20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20)](https://github.com/Leider-20/github-readme-stats)
 
 ### Language, frameworks and tools
 
