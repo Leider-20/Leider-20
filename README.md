@@ -27,7 +27,7 @@ Systems engineer in formation. 😎
 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white" height="35" />&nbsp;
 
-## Top Langs:
+## Top langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leider-20&size_weight=0.5&count_weight=0.5)
 
   
