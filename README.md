@@ -3,11 +3,12 @@
 
 Systems engineer in formation. 😎
 
-[![Leider-20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20)](https://github.com/Leider-20/github-readme-stats)
+![Leider-20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=dark)
 
-### Language, frameworks and tools
+## Language, frameworks and tools
 
 - Web development:
+  
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"  height="35"/> &nbsp; 
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?&style=flat&logo=springboot&logoColor=green"  height="35"/> &nbsp;
   <img alt="React" src="https://img.shields.io/badge/React-444950?style=flat&logo=react&logoColor=149eca"  height="35"/> &nbsp;
