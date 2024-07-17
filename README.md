@@ -1,4 +1,4 @@
-## String name = "Leider Felipe Caicedo P"; 👋
+## String name = "~Leider Felipe Caicedo P~"; 👋
 
 ### About me
 
