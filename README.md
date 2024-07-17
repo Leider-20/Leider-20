@@ -19,7 +19,7 @@ Systems engineer in formation. 😎
 
   <p class = "parrafo"> Parrafo </p>
   <style>
-    .parrafo: {
+    .parrafo {
       color: blue
     }
   </style>
