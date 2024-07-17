@@ -17,10 +17,10 @@ Systems engineer in formation. 😎
   <img alt="React" src="https://img.shields.io/badge/React-444950?style=flat&logo=react&logoColor=149eca"  height="35"/> &nbsp;
   <!--<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=flat&logo=angular&logoColor=white"  height="35"/> &nbsp;-->
 
-  <p class = "parrafo"> Parrafo </p>
+  <p> Parrafo </p>
   <style>
-    .parrafo {
-      color: blue
+    p {
+      blue
     }
   </style>
 
