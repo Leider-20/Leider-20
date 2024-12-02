@@ -14,7 +14,6 @@ Systems engineer in formation. 😎
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?&style=flat&logo=springboot&logoColor=green"  height="35"/> &nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="35"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height="35"/> &nbsp;
-  <img alt="React" src="https://img.shields.io/badge/React-444950?style=flat&logo=react&logoColor=149eca"  height="35"/> &nbsp;
   <!--<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=flat&logo=angular&logoColor=white"  height="35"/> &nbsp;-->
 
 - Databases:
