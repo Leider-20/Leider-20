@@ -1,5 +1,5 @@
 # ¡Hi! 👋
-# String name = "*Leider Felipe Caicedo P*"; 
+# Nombre: *Leider Felipe Caicedo P* 
 ## About me
 
 Systems engineer in formation. 😎
