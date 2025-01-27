@@ -1,11 +1,11 @@
-# ¡Hi! 👋
-## About me 🌟
+# ¡いらっしゃいませ! 👋
+## 🌟About me: 
 
 Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de Antioquia. Mi enfoque se centra en aprender y desarrollar habilidades clave que me permitan avanzar aún más en mi campo. Mi compromiso radica en contribuir positivamente con mis habilidades, adquirir nuevas y aportar un valor significativo en el desarrollo de proyectos y soluciones tecnológicas.👏
 
 ![Leider-20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=dark)
 
-## Language, frameworks and tools 🖥️ 
+## 🖥️Tech stack:  
 
 - Web development:
   
@@ -29,7 +29,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Top langs 📊 
+## 📊Top langs:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leider-20&size_weight=0.5&count_weight=0.5)
 
   
