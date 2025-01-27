@@ -30,7 +30,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Top langs 
+## Top langs📊 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leider-20&size_weight=0.5&count_weight=0.5)
 
   
