@@ -1,4 +1,3 @@
-# ¡いらっしゃいませ! 👋
 ## 🌟About me: 
 
 Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de Antioquia. Mi enfoque se centra en aprender y desarrollar habilidades clave que me permitan avanzar aún más en mi campo. Mi compromiso radica en contribuir positivamente con mis habilidades, adquirir nuevas y aportar un valor significativo en el desarrollo de proyectos y soluciones tecnológicas.👏
