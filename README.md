@@ -8,8 +8,12 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
 ## 🖥️Tech stack:  
 
 - Web development:
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,angular" />
+  </a>
+</p>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
