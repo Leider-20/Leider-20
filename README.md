@@ -12,14 +12,10 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven)](https://skillicons.dev)
   <div>
-    <a href="https://oracle.com">
-      <img src="assets/icons/oracle.png" width="40"/>
-    </a>
-    <a href="https://learn.microsoft.com/sql">
-      <img src="assets/icons/sqlserver.png" width="40"/>
-    </a>
-
+    <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/oracle.png?raw=true" width="40" />
+    <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/sqlserver.png?raw=true" width="40" />
   </div>
+
           
 - ### Front End:
   
