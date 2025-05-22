@@ -17,7 +17,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
 
 ## 🖥️Tech stack:  
 
-- ### Back End:
+  - ### Back End:
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven)](https://skillicons.dev)
   <div>
@@ -27,7 +27,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   </div>
 
           
-- ### Front End:
+  - ### Front End:
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
   <div>
@@ -36,7 +36,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
     </a>
   </div>
   
-- ### Other tools:
+  - ### Other tools:
 
   [![My Skills](https://skillicons.dev/icons?i=python,git,github,postman,)](https://skillicons.dev)
 
