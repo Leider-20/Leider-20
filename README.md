@@ -12,6 +12,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
     <img src="https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=dark" />
   </div>
 
+<!---->
 
 ## 🖥️Tech stack:  
 
@@ -34,11 +35,11 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
     </a>
   </div>
   
-- ### Others tools:
+- ### Other tools:
 
   [![My Skills](https://skillicons.dev/icons?i=python,git,github,postman,)](https://skillicons.dev)
 
-
+<!---->
 
 ## 📊Top langs:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leider-20&size_weight=0.5&count_weight=0.5)
