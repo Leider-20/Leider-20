@@ -23,8 +23,8 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   <div>
     <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/oracle.png?raw=true" width="50" />
     <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/sqlserver.png?raw=true" width="50" />
+    <img src="https://skillicons.dev/icons?i=mysql"/>
   </div>
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
           
 - ### Front End:
