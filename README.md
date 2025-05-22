@@ -17,17 +17,17 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
 
 ## 🖥️Tech stack:  
 
-  - ### Back End:
+- ### Back End:
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven)](https://skillicons.dev)
   <div>
     <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/oracle.png?raw=true" width="50" />
     <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/sqlserver.png?raw=true" width="50" />
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   </div>
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
           
-  - ### Front End:
+- ### Front End:
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
   <div>
@@ -36,7 +36,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
     </a>
   </div>
   
-  - ### Other tools:
+- ### Other tools:
 
   [![My Skills](https://skillicons.dev/icons?i=python,git,github,postman,)](https://skillicons.dev)
 
