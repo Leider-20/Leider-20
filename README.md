@@ -3,7 +3,9 @@
 
 Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de Antioquia. Mi enfoque se centra en aprender y desarrollar habilidades clave que me permitan avanzar aún más en mi campo. Mi compromiso radica en contribuir positivamente con mis habilidades, adquirir nuevas y aportar un valor significativo en el desarrollo de proyectos y soluciones tecnológicas.👏
 
-  ![Leider-20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=dark)
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=dark" />
+  </div>
 
 
 ## 🖥️Tech stack:  
@@ -14,6 +16,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   <div>
     <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/oracle.png?raw=true" width="50" />
     <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/sqlserver.png?raw=true" width="50" />
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   </div>
 
           
