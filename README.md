@@ -13,6 +13,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   </div>
 
 <br>
+<br>
 
 ## 🖥️Tech stack:  
 
@@ -39,6 +40,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
 
   [![My Skills](https://skillicons.dev/icons?i=python,git,github,postman,)](https://skillicons.dev)
 
+<br>
 <br>
 
 ## 📊Top langs:  
