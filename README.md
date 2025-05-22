@@ -12,20 +12,16 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
           
-
 - Front End:
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap)](https://skillicons.dev)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   
-- Others:
+- Others tools:
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=python,git,github,postman,)](https://skillicons.dev)
+
 
 
 ## 📊Top langs:  
