@@ -7,14 +7,16 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
 
 ## 🖥️Tech stack:  
 
--Back End:
+- Back End:
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=sqlserver,orcalesql,mysql)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+          
 
-- Databases:
+- Front End:
   
-  ![OracleSQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap)](https://skillicons.dev)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
