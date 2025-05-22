@@ -15,7 +15,7 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
   <div>
-     [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap)](https://skillicons.dev)
+     <img src= https://skillicons.dev/icons?i=angular,bootstrap)](https://skillicons.dev)>
   </div>
   
 - Others tools:
