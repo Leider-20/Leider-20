@@ -10,13 +10,13 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
 - Back End:
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven)](https://skillicons.dev)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
           
 - Front End:
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap)](https://skillicons.dev)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  <div>
+     [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap)](https://skillicons.dev)
+  </div>
   
 - Others tools:
 
