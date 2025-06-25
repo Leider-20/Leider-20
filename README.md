@@ -35,6 +35,12 @@ Estudiante de últimos semestres de ingeniería de sistemas en la Universidad de
       <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap"/>
     </a>
   </div>
+
+  
+- ### DevOps:
+  
+  [![My Skills](https://skillicons.dev/icons?i=docker,vercel)](https://skillicons.dev)
+
   
 - ### Other tools:
 
