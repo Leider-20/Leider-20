@@ -68,7 +68,7 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 
 ## 📊Top langs:  
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leider-20&theme=tokyonight)
 </div>
 
   
