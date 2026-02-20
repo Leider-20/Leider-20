@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1098" height="404" alt="image" src="https://github.com/user-attachments/assets/de358f59-07d8-495f-9cd9-f2779632c728" /><div align="center">
   
   # 👋¡Welcome! I am Leider Caicedo
   
@@ -14,7 +14,7 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 👏
 
   <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Leider-20=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 <br>
