@@ -14,7 +14,7 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 👏
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Leider20&show_icons=true&theme=dark" />
   </div>
 
 <br>
@@ -55,7 +55,9 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 <br>
 
 ## 📊Top langs:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leider-20&size_weight=0.5&count_weight=0.5)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leider20&layout=compact&theme=dark" />
+</div>
 
   
 
