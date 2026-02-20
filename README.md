@@ -14,7 +14,7 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 👏
 
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=radical&v=1)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=radical&v=1)
 
 
 <br>
