@@ -1,4 +1,3 @@
-<img width="1098" height="404" alt="image" src="https://github.com/user-attachments/assets/de358f59-07d8-495f-9cd9-f2779632c728" /><div align="center">
   
   # 👋¡Welcome! I am Leider Caicedo
   
@@ -19,9 +18,6 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
   </a>
   <a href="https://github.com/Leider-20/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Leider-20/github-readme-stats" />
-  </a>
-  <a href="https://codecov.io/gh/Leider-20/github-readme-stats">
-    <img alt="Tests Coverage" src="https://codecov.io/gh/Leider-20/github-readme-stats/branch/master/graph/badge.svg" />
   </a>
   <a href="https://github.com/Leider-20/github-readme-stats/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/Leider-20/github-readme-stats?color=0088ff" />
