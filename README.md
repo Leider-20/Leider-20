@@ -67,10 +67,7 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 <br>
 
 ## 📊Top langs:  
-<div align="center">
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leider)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leider)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
