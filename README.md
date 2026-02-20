@@ -14,7 +14,7 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 👏
 
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leider-20&show_icons=true&theme=radical)
 
 
 <br>
