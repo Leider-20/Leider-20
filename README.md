@@ -29,9 +29,6 @@ Me caracterizo por mi pensamiento anal√≠tico, responsabilidad, buena comunicaci√
   <a href="https://github.com/Leider-20/github-readme-stats/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Leider-20/github-readme-stats?color=0088ff" />
   </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/Leider-20/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Leider-20/github-readme-stats/badge" />
-  </a>
 </p>
 
 
