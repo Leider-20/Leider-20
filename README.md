@@ -14,7 +14,7 @@ Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicaci�
 👏
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leider20&show_icons=true&theme=dark" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=Leider20&show_icons=true&theme=dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)" />
   </div>
 
 <br>
