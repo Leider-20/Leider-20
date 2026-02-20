@@ -8,7 +8,7 @@
 
 Desarrollador backend con experiencia en aplicaciones monolíticas y conocimientos en microservicios, enfocado en la calidad del código y en la aplicación de buenas prácticas de programación, principios SOLID, patrones de diseño y Clean Code. También, trabajo bajo el marco DevOps y metodologías ágiles como Scrum.
 
-He participado en el desarrollo de APIs REST y soluciones backend utilizando Java, Spring Boot y gestionando bases de datos SQL y NoSQL. Cuento con experiencia en pruebas unitarias con JUnit y Mockito, automatización de pruebas con Cucumber, control de versiones con GitHub, implementación de seguridad con JWT y despliegue de aplicaciones en contenedores Docker y entornos en la nube de AWS como EC2 y Elastic Beanstalk. Además, he utilizado herramientas de análisis de código como SonarCloud y pipelines de CI/CD con GitHub Actions.
+He participado en el desarrollo de APIs REST y soluciones backend utilizando Java, Spring Boot y gestionando bases de datos SQL y NoSQL. Cuento con experiencia en pruebas unitarias con JUnit y Mockito, automatización de pruebas con Cucumber, control de versiones con GitHub, implementación de seguridad con JWT y despliegue de aplicaciones en contenedores Docker y entornos en la nube de AWS como EC2 y Elastic Beanstalk. Además, he utilizado herramientas de análisis de código como SonarCloud y realizado pipelines de CI/CD con GitHub Actions.
 
 Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicación y trabajo colaborativo, aportando soluciones confiables, mantenibles y alineadas con los objetivos del negocio.
 👏
