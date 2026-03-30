@@ -15,7 +15,7 @@ Me caracterizo por mi pensamiento anal√≠tico, responsabilidad, buena comunicaci√
 
 <p align="center">
   <a href="https://github.com/Leider-20/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/Leider-20/github-readme-stats/workflows/Test/badge.svg" />
+    <img alt="Tests Passing" src="https://github.com/Leider-20/github-readme-stats/workflows/commit/badge.svg" />
   </a>
   <a href="https://github.com/Leider-20/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Leider-20/github-readme-stats" />
