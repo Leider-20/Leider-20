@@ -13,20 +13,7 @@ He participado en el desarrollo de APIs REST y soluciones backend utilizando Jav
 Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicación y trabajo colaborativo, aportando soluciones confiables, mantenibles y alineadas con los objetivos del negocio.
 👏
 
-<p align="center">
-  <a href="https://github.com/Leider-20/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/Leider-20/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/Leider-20/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Leider-20/github-readme-stats" />
-  </a>
-  <a href="https://github.com/Leider-20/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/Leider-20/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://github.com/Leider-20/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Leider-20/github-readme-stats?color=0088ff" />
-  </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
