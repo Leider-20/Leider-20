@@ -13,7 +13,7 @@ He participado en el desarrollo de APIs REST y soluciones backend utilizando Jav
 Me caracterizo por mi pensamiento analítico, responsabilidad, buena comunicación y trabajo colaborativo, aportando soluciones confiables, mantenibles y alineadas con los objetivos del negocio.
 👏
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leider-20&theme=tokyonight)
 
 
 <br>
