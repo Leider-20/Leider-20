@@ -41,6 +41,7 @@ Me caracterizo por mi pensamiento anal√≠tico, responsabilidad, buena comunicaci√
     <img src="https://github.com/Leider-20/Leider-20/blob/main/icons/sqlserver.png?raw=true" width="50" />
     <img src="https://skillicons.dev/icons?i=mysql"/>
   </div>
+  [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
           
 - ### Front End:
