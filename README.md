@@ -60,7 +60,7 @@ Me caracterizo por mi pensamiento anal√≠tico, responsabilidad, buena comunicaci√
   
 - ### Other tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=python,git,github,postman,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,git,github,postman,azure)](https://skillicons.dev)
 
 <br>
 <br>
