@@ -49,7 +49,7 @@ Me caracterizo por mi pensamiento anal√≠tico, responsabilidad, buena comunicaci√
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap"/>
+      <img src="https://skillicons.dev/icons?i=angular,ts,tailwind"/>
     </a>
   </div>
 
